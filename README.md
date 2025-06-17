@@ -4,7 +4,7 @@
 
 ## About
 
-This repository supports research and data workflows for the YESS initiative, providing reusable code and documentation for:
+This repository supports research and data workflows providing reusable code and documentation for:
 
 - Extracting structured data from Google Docs or .docx files
 - Parsing, cleaning, and transforming qualitative and quantitative data
