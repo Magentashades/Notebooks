@@ -1,0 +1,15 @@
+services:
+  jupyter:
+    image: quay.io/jupyter/scipy-notebook:latest
+    container_name: scipy-notebook
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./:/home/jovyan/work
+      - ./jupyter_notebook_config.py:/home/jovyan/.jupyter/jupyter_notebook_config.py
+    environment:
+      # Optionally set a password or token
+      JUPYTER_TOKEN: "magz-public-token"
+      JUPYTER_PASSWORD: "magz-public-password"
+      NB_UID: 1000
+      NB_GID: 100
