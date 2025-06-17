@@ -35,8 +35,8 @@ This project is configured to run using Docker Compose with a pre-built Jupyter 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/magentashades/YESS_Notebooks.git
-   cd YESS_Notebooks
+   git clone https://github.com/magentashades/Notebooks.git
+   cd Notebooks
    ```
 
 2. **Start the Jupyter environment:**
