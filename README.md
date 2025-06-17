@@ -1,6 +1,6 @@
-# YESS_Notebooks
+# Notebooks
 
-**YESS_Notebooks** is a repository for Jupyter notebooks and scripts used in data extraction, cleaning, and manipulation for research projects affiliated with You Empowering Sustainable Systems (YESS) at the University of Maine.
+**Notebooks** is a repository for Jupyter notebooks and scripts used in data extraction, cleaning, and manipulation.
 
 ## About
 
